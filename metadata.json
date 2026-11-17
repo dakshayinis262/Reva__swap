@@ -1,0 +1,6 @@
+{
+  "name": "REVA SWAP",
+  "description": "Your Campus. Your Community. Your Swap. Exclusive campus-based resource-sharing marketplace for university students to borrow, lend, buy, sell, and swap essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
